@@ -1,1 +1,0 @@
-## Simple javascript canvas template
