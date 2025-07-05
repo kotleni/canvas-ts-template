@@ -13,7 +13,7 @@ const Canvas = () => {
         if (!ctx) return;
 
         let animationFrameId: number;
-        const size = 150;
+        const size = 32;
         const halfSize = size / 2;
 
         const vertices: {x: number; y: number; z: number}[] = [
